@@ -8,8 +8,9 @@
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
     <Description>MonoGame integration with WPF. This package provides the D3D11Host from the MonoGame WpfInteropSample. It extends it with WpfGame, WpfMouse and WpfKeyboard and makes it actually usable in any WPF application.</Description>
-    <PackageProjectUrl>https://github.com/MarcStan/monogame-framework-wpfinterop</PackageProjectUrl>
+    <PackageProjectUrl>https://github.com/Paphos/monogame-framework-wpfinterop</PackageProjectUrl>
     <PackageTags>monogame wpf interop</PackageTags>
+    <PackageId>Paphos.MonoGame.Framework.WpfInterop</PackageId>
   </PropertyGroup>
 
   <ItemGroup>
